@@ -1,0 +1,18 @@
+.language-card {
+    width: 150px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .language-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .language-flag {
+    width: 100px;
+    height: auto;
+  }
+  

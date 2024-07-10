@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.language-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
